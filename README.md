@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hi there! I'm Lucas Rosvall
 
-<!--
-**lucasros98/lucasros98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 About Me
+- **Age & Profession**: I'm a 25-year-old Software Engineer and self-confessed SEO geek based in Gothenburg.
+- **Current Role**: Co-Founder and Software Engineer at Fiive AB, where we're all about pushing the boundaries in IT development and machine learning.
+- **Education & Passion**: With a background in software engineering, I'm constantly diving into the depths of new technologies.
 
-Here are some ideas to get you started:
+### 💻 Work
+- **What I Do**: At Fiive, we're a small but strong team, tackling everything from complex IT challenges to innovative machine learning projects.
+- **Tech Preferences**: Python is my trusted sidekick when it comes to machine learning – it's like the Swiss Army knife in my tech toolkit.
+- **Side Projects**: I love diving into various side projects. They're like my playground for testing out new ideas and SEO tactics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+
+My Company: https://www.fiive.se/
+
+LinkedIn: https://www.linkedin.com/in/lucasrosvall/
+
+Twitter: https://twitter.com/lucasrosvall
