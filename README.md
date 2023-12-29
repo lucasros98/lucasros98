@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Lucas Rosvall
+## 👋 Hi there! I'm Lucas
 
 ### 🌐 About Me
 - **Age & Profession**: I'm a 25-year-old Software Engineer and self-confessed SEO geek based in Gothenburg.
