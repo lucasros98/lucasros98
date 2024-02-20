@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Lucas
 
 ### 🌐 About Me
-- **Age & Profession**: I'm a 25-year-old Software Engineer and self-confessed SEO geek based in Gothenburg.
+- **Age & Profession**: I'm a 26-year-old Software Engineer and self-confessed SEO geek based in Gothenburg.
 - **Current Role**: Co-Founder and Software Engineer at Fiive AB, where we're all about pushing the boundaries in IT development and machine learning.
 - **Education & Passion**: With a background in software engineering, I'm constantly diving into the depths of new technologies.
 
