@@ -2,7 +2,7 @@
 
 ### 🌐 About Me
 - **Age & Profession**: I'm a 26-year-old Software Engineer and self-confessed SEO geek based in Gothenburg.
-- **Current Role**: Co-Founder and Software Engineer at Fiive AB, where we're all about pushing the boundaries in IT development and machine learning.
+- **Current Role**: Co-Founder and Software Engineer at [Fiive in Gothenburg](https://www.fiive.se), where we're all about pushing the boundaries in IT development and machine learning.
 - **Education & Passion**: With a background in software engineering, I'm constantly diving into the depths of new technologies.
 
 ### 💻 Work
@@ -12,7 +12,7 @@
 
 ## Let's Connect
 
-My Company: https://www.fiive.se/
+Workplace: https://www.fiive.se
 
 LinkedIn: https://www.linkedin.com/in/lucasrosvall/
 
