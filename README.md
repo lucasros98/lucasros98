@@ -7,7 +7,6 @@
 
 ### 💻 Work
 - **What I Do**: At Fiive, we're a small but strong team, tackling everything from complex IT challenges to innovative machine learning projects.
-- **Tech Preferences**: Python is my trusted sidekick when it comes to machine learning – it's like the Swiss Army knife in my tech toolkit.
 - **Side Projects**: I love diving into various side projects. They're like my playground for testing out new ideas and SEO tactics.
 
 ## Let's Connect
